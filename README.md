@@ -24,7 +24,7 @@ This project is a GUI application built using Python's Tkinter library that pars
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/html-parser-to-csv.git
+   git clone https://github.com/mushafkhan7/html-parser-to-csv.git
    cd html-parser-to-csv
    ```
 
